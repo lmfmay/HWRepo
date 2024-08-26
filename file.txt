@@ -1,1 +1,3 @@
 This is my homework repo!
+
+Objectives: Practising how to add repos to GitHub, adding and committing changes, and pushing it to GitHub.
